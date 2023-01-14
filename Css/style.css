@@ -47,6 +47,7 @@ button.component {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
+    overflow:hidden;
 }
 /* Media Quires Standard Dimensions */
 /* Small */
